@@ -1,2 +1,2 @@
-# -
-This is a article generator. User can input the topic and it will automatically generator a rubbish article using the style of sale-oriented ones.
+# Sale-oriented article generator
+This is an article generator. Users can input the topic and it will automatically generate a rubbish article using the style of sale-oriented ones.
